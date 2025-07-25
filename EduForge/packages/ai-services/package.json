@@ -1,0 +1,11 @@
+{
+  "name": "ai-services",
+  "version": "1.0.0",
+  "description": "AI services for EduForge",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "eduforge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A full-stack web project to help students prepare for exams like GATE, JEE, and NEET.",
+  "main": "index.js",
+  "scripts": {
+    "start:backend": "pnpm --filter backend start",
+    "start:frontend": "pnpm --filter frontend dev",
+    "start:ai-services": "pnpm --filter ai-services start"
+  },
+  "keywords": [
+    "education",
+    "exam-prep",
+    "react",
+    "nodejs",
+    "python"
+  ],
+  "author": "",
+  "license": "ISC"
+}
